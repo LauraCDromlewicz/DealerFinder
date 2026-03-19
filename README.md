@@ -1,2 +1,2 @@
 # DealerFinder
-Primeiro app em flutter 
+Primeiro app em React Native 
